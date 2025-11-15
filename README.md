@@ -14,13 +14,13 @@
 
 ### :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start--> 
-1. 🔱 Forked [EscuelaElfo/don-confiado-clase5](https://github.com/EscuelaElfo/don-confiado-clase5) from [EscuelaElfo/don-confiado-clase5](https://github.com/EscuelaElfo/don-confiado-clase5)<br>
-2. 🔱 Forked [jphernanezr/LLMs-from-scratch](https://github.com/jphernanezr/LLMs-from-scratch) from [jphernanezr/LLMs-from-scratch](https://github.com/jphernanezr/LLMs-from-scratch)<br>
-3. ⭐ Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)<br>
-4. ⭐ Starred [toon-format/toon](https://github.com/toon-format/toon)<br>
-5. 🔱 Forked [jphernandezr/don-confiado_clase_3](https://github.com/jphernandezr/don-confiado_clase_3) from [jphernandezr/don-confiado_clase_3](https://github.com/jphernandezr/don-confiado_clase_3)<br>
+1. 🔱 Forked [jphernanezr/claude-code](https://github.com/jphernanezr/claude-code) from [jphernanezr/claude-code](https://github.com/jphernanezr/claude-code)<br>
+2. ⭐ Starred [platzi/claude-code](https://github.com/platzi/claude-code)<br>
+3. 🔱 Forked [EscuelaElfo/don-confiado-clase5](https://github.com/EscuelaElfo/don-confiado-clase5) from [EscuelaElfo/don-confiado-clase5](https://github.com/EscuelaElfo/don-confiado-clase5)<br>
+4. 🔱 Forked [jphernanezr/LLMs-from-scratch](https://github.com/jphernanezr/LLMs-from-scratch) from [jphernanezr/LLMs-from-scratch](https://github.com/jphernanezr/LLMs-from-scratch)<br>
+5. ⭐ Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Saturday, November 15th, 2025, 1:08:44 AM
+Last Updated: Saturday, November 15th, 2025, 12:26:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
