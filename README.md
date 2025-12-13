@@ -18,9 +18,8 @@
 2. 🔱 Forked [jphernanezr/claude-code](https://github.com/jphernanezr/claude-code) from [platzi/claude-code](https://github.com/platzi/claude-code)<br>
 3. ⭐ Starred [platzi/claude-code](https://github.com/platzi/claude-code)<br>
 4. 🔱 Forked [EscuelaElfo/don-confiado-clase5](https://github.com/EscuelaElfo/don-confiado-clase5) from [tribu-ia/don-confiado](https://github.com/tribu-ia/don-confiado)<br>
-5. 🔱 Forked [jphernanezr/LLMs-from-scratch](https://github.com/jphernanezr/LLMs-from-scratch) from [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Friday, December 12th, 2025, 1:19:17 PM
+Last Updated: Saturday, December 13th, 2025, 1:10:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
