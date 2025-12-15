@@ -15,10 +15,8 @@
 ### :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start--> 
 1. ⭐ Starred [jphernanezr/LLMs-from-scratch](https://github.com/jphernanezr/LLMs-from-scratch)<br>
-2. 🔱 Forked [jphernanezr/claude-code](https://github.com/jphernanezr/claude-code) from [platzi/claude-code](https://github.com/platzi/claude-code)<br>
-3. ⭐ Starred [platzi/claude-code](https://github.com/platzi/claude-code)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Monday, December 15th, 2025, 1:16:53 AM
+Last Updated: Monday, December 15th, 2025, 12:36:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
