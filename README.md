@@ -14,9 +14,8 @@
 
 ### :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start--> 
-1. ⭐ Starred [jphernanezr/LLMs-from-scratch](https://github.com/jphernanezr/LLMs-from-scratch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Monday, December 22nd, 2025, 1:17:49 AM
+Last Updated: Monday, December 22nd, 2025, 12:32:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
