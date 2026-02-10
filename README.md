@@ -14,11 +14,13 @@
 
 ### :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start--> 
-1. ⭐ Starred [jphernanezr/etl-profesional-databricks](https://github.com/jphernanezr/etl-profesional-databricks)<br>
-2. 🔱 Forked [jphernanezr/etl-profesional-databricks](https://github.com/jphernanezr/etl-profesional-databricks) from [Data-Hackers-Academy/etl-profesional-databricks](https://github.com/Data-Hackers-Academy/etl-profesional-databricks)<br>
-3. ⭐ Starred [Data-Hackers-Academy/etl-profesional-databricks](https://github.com/Data-Hackers-Academy/etl-profesional-databricks)<br>
+1. ⭐ Starred [platzi/curso-fundamentos-llms](https://github.com/platzi/curso-fundamentos-llms)<br>
+2. ⭐ Starred [MrDonkey08/huffman](https://github.com/MrDonkey08/huffman)<br>
+3. ⭐ Starred [jphernanezr/etl-profesional-databricks](https://github.com/jphernanezr/etl-profesional-databricks)<br>
+4. 🔱 Forked [jphernanezr/etl-profesional-databricks](https://github.com/jphernanezr/etl-profesional-databricks) from [Data-Hackers-Academy/etl-profesional-databricks](https://github.com/Data-Hackers-Academy/etl-profesional-databricks)<br>
+5. ⭐ Starred [Data-Hackers-Academy/etl-profesional-databricks](https://github.com/Data-Hackers-Academy/etl-profesional-databricks)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Tuesday, February 10th, 2026, 1:58:16 AM
+Last Updated: Tuesday, February 10th, 2026, 1:00:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
