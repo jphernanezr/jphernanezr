@@ -15,10 +15,8 @@
 ### :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start--> 
 1. ⭐ Starred [Cloudflare-Colombia-User-Group/cc-liveboard](https://github.com/Cloudflare-Colombia-User-Group/cc-liveboard)<br>
-2. ⭐ Starred [platzi/curso-fundamentos-llms](https://github.com/platzi/curso-fundamentos-llms)<br>
-3. ⭐ Starred [MrDonkey08/huffman](https://github.com/MrDonkey08/huffman)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update--> 
-Last Updated: Thursday, March 12th, 2026, 1:26:34 AM
+Last Updated: Thursday, March 12th, 2026, 12:45:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
